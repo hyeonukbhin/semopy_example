@@ -1,5 +1,5 @@
 # 구조방정식(Structural equation model) Python Example using semopy & graphviz
-======================================================================================================================
+
 
 This is a sem example using semopy & graphviz
 
