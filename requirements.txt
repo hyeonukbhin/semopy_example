@@ -1,4 +1,3 @@
-numpy
 pandas
 pprintpp
-json
+semopy
